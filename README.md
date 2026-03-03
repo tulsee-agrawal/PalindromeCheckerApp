@@ -4,6 +4,6 @@
 This class represents the entry point of the 
 Palindrome Checker Management System
 ## At this stage, the application:
- . Starts execution from the main() method
- . Displays a welcome message
- . Shows application version
+ 1) Starts execution from the main() method
+ 2) Displays a welcome message
+ 3) Shows application version
