@@ -28,9 +28,9 @@
 
 ## Technologies
 
-Java
-String normalization
-Two-pointer algorithm
+- Java
+- String normalization
+- Two-pointer algorithm
 
 ## File
 
