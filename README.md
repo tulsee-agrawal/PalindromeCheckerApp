@@ -5,9 +5,9 @@
 - Palindrome logic is encapsulated inside a PalindromeService class
 - Improves:
 
-  -- Reusability
-  -- Readability
-  -- Separation of concerns
+  - Reusability
+  - Readability
+  - Separation of concerns
 
 
 
