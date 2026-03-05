@@ -11,11 +11,11 @@ removeLast() → from the back
 
 
 ### 3)Compare both values
-If they all match → the string is a palindrome
+If they all match then the string is a palindrome
 
 ## Example
--Input: level
--Output: true
+ Input: level
+ Output: true
 ## Technologies
 
 Java
