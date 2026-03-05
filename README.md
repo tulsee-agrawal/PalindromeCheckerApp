@@ -22,9 +22,9 @@
 
 ## Example
 
-Input: A man, a plan, a canal: Panama
-Normalized: amanaplanacanalpanama
-Output: true
+- Input: A man, a plan, a canal: Panama
+- Normalized: amanaplanacanalpanama
+- Output: true
 
 ## Technologies
 
